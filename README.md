@@ -15,7 +15,7 @@ This project uses .NET version 6
     
     Once Git is installed, clone this repository to your local machine:
     ```
-    git clone https://github.com/savita-muley/contact-manager-api.git
+    git clone https://github.com/thoratsanket/ContactManagementSystemApi.git
     ```
 
 5. **Open the Project in Your IDE**
